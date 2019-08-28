@@ -24,3 +24,9 @@ You can also press the **C** button to clear and the **Back Arrow** to delete on
   <img src="Images/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-08-28%20at%2017.06.57.png" width="250"> <img src="Images/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-08-28%20at%2017.07.16.png" width="250">
   
    * 86 in Octal:
+   
+   <img src="Images/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-08-28%20at%2017.15.00.png" width="250"> <img src="Images/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-08-28%20at%2017.15.40.png" width="250">
+   
+   * 429 in Hexadecimal:
+   
+   <img src="Images//Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-08-28%20at%2017.21.01.png" width="250"> <img src="Images/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-08-28%20at%2017.21.26.png" width="250">
